@@ -1,8 +1,8 @@
 # upyoung_Automation_Test_Enginee_HW
 
 本專案包含兩個作業：
-- **HW1_Playwright Automation Test Challenge**：使用 Python + Poetry + Playwright（Chromium）（含 Page Object Pattern）。
-- **HW2_API Testing Challenge**：使用 Postman Echo Collection 完成 API 正向/負向測試（可用 Postman GUI）。
+- **HW1_Playwright Automation Test Challenge**：使用 Python + Poetry + Playwright（Chromium）（含 Page Object Pattern）(花費：50 分鐘)。
+- **HW2_API Testing Challenge**：使用 Postman Echo Collection 完成 API 正向/負向測試（可用 Postman GUI）(花費：20 分鐘)。
 
 ---
 
