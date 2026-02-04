@@ -28,6 +28,13 @@
     ```bash
     poetry run pytest
     ```
+
+## 備註: 目前跑完測試會出現錯誤：
+   ```bash
+    AssertionError: assert 'Thank you for your order!' == 'THANK YOU FOR YOUR ORDER'
+```
+
+是因為照著作業指示的字串來驗證 "THANK YOU FOR YOUR ORDER"，與實際有差異，因此這個測試項目固定會 Fail。
     
 
 ### HW2（Postman / API）
